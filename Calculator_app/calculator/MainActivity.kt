@@ -1,4 +1,4 @@
-package com.ayush.calculator
+package com.arsh.calculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
